@@ -1,0 +1,33 @@
+Ergebnisliste Schüler A/Jugend B    0,4 - 10 - 2,5
+
+Platz StartNr. Name                      AK         m/w   Verein                            Gesamt                   
+--------------------------------------------------------------------------------------------------------
+1.    57       Till Krautwurst           Jugend B   m     Tri-Geckos Dortmund               00:37:31.29         
+2.    56       Bennet Golomski           Schüler A  m     TV Lemgo                          00:38:45.22         
+3.    50       Tim Coenen                Jugend B   m     TV Lemgo                          00:39:05.53         
+4.    53       Darya Sklyar              Jugend B   w     mw1 Tri Team TG Lage              00:41:45.52        
+5.    52       Jonathan Fißmer           Schüler A  m     mw1 Tri Team TG Lage              00:44:46.07         
+6.    59       Marharyta Mohilei         Jugend B   w     TG Lage                           00:45:15.09        
+7.    51       Greta Wolff               Schüler A  w     mw1 Tri Team TG Lage              00:48:48.66         
+8.    60       Lotta Baruth              Schüler A  w                                       00:49:46.26        
+9.    58       Melina Fechner            Jugend B   w                                       00:54:11.56         
+10.   55       Theresa Kubiak            Schüler A  w     mw1 Tri Team TG Lage              01:04:05.66         
+
+
+---------------------------------------------------------------------------------------------------------
+
+
+Schüler A:
+1.    56       Bennet Golomski           Schüler A  m     TV Lemgo                          00:38:45.22         
+2.    52       Jonathan Fißmer           Schüler A  m     mw1 Tri Team TG Lage              00:44:46.07         
+3.    51       Greta Wolff               Schüler A  w     mw1 Tri Team TG Lage              00:48:48.66        
+4.    60       Lotta Baruth              Schüler A  w                                       00:49:46.26         
+5.    55       Theresa Kubiak            Schüler A  w     mw1 Tri Team TG Lage              01:04:05.66         
+
+
+Jugend B:
+1.    57       Till Krautwurst           Jugend B   m     Tri-Geckos Dortmund               00:37:31.29         
+2.    50       Tim Coenen                Jugend B   m     TV Lemgo                          00:39:05.53         
+3.    53       Darya Sklyar              Jugend B   w     mw1 Tri Team TG Lage              00:41:45.52        
+4.    59       Marharyta Mohilei         Jugend B   w     TG Lage                           00:45:15.09        
+5.    58       Melina Fechner            Jugend B   w                                       00:54:11.56        

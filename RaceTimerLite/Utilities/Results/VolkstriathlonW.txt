@@ -1,0 +1,41 @@
+Ergebnisliste Volkstriathlon Frauen    0,5 - 20 - 5
+
+Platz StartNr. Name                      AK         m/w   Verein                            Gesamt          Swim            Bike            Run            
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+1.    210      Katjana Quest-Altrogge    AK55       w     Krefelder Kanu Klub               01:07:37.00     00:00:00.00     00:00:00.00     01:07:37.00    
+2.    229      Nina Grohmann             AK20       w     RC Endspurt Herford               01:09:37.04     00:00:00.00     00:00:00.00     01:09:37.04    
+3.    223      Jannika Jesse             AK20       w     TV Lemgo                          01:09:46.54     00:00:00.00     00:00:00.00     01:09:46.54    
+4.    216      Tessa Rölert              AK30       w     TG Lage                           01:11:10.81     00:00:00.00     00:00:00.00     01:11:10.81    
+5.    230      Beinke Bettina            AK50       w     TG Ennigloh                       01:11:59.70     00:00:00.00     00:00:00.00     01:11:59.70    
+6.    234      Katrin Scharley-Sorgenfrey AK30       w     TG Lage                           01:13:14.80     00:00:00.00     00:00:00.00     01:13:14.80    
+7.    242      Alexandra Dux             AK40       w     LG Oerlinghausen                  01:13:17.19     00:00:00.00     00:00:00.00     01:13:17.19    
+8.    224      Marie Gautier             AK20       w     TSV Niederelsungen                01:15:15.82     00:00:00.00     00:00:00.00     01:15:15.82    
+9.    226      Petra Brand               AK50       w     SC Borchen                        01:15:50.95     00:50:16.16     00:00:00.00     00:25:34.79    
+10.   203      Anja Lippert              AK50       w                                       01:16:00.82     00:00:00.00     00:00:00.00     01:16:00.82    
+11.   218      Bentje Hillmer            AK25       w                                       01:16:05.72     00:00:00.00     00:00:00.00     01:16:05.72    
+12.   205      Kim Nußbaum               AK40       w     Fräulein Triathlon                01:17:07.34     00:00:00.00     00:00:00.00     01:17:07.34    
+13.   215      Sarah Pohlmann            AK35       w     TV Lemgo                          01:17:16.99     00:00:00.00     00:00:00.00     01:17:16.99    
+14.   206      Iris Spangenberg          AK50       w     TSV Niederelsungen                01:17:19.38     00:00:00.00     00:00:00.00     01:17:19.38
+15.   112      Sonja Dreiling            AK50       w                                       01:19:05.39     00:00:00.00     00:00:00.00     01:19:05.39    
+16.   212      Marie Schwarz             AK20       w     TSV Niederelsungen                01:19:50.97     00:00:00.00     00:00:00.00     01:19:50.97    
+17.   211      Joana Quooß               AK35       w                                       01:20:58.02     00:00:00.00     00:00:00.00     01:20:58.02    
+18.   221      Paula Pfefferkorn         AK50       w     SV Gladbeck 13                    01:21:31.88     00:52:52.45     00:00:00.00     00:28:39.43    
+19.   232      Anna-Lena Kortenbusch     AK30       w                                       01:22:33.11     00:55:14.41     00:00:00.00     00:27:18.70    
+20.   204      Anna-Louise Dohme         AK35       w                                       01:23:04.40     00:00:00.00     00:00:00.00     01:23:04.40    
+21.   231      Andrea Mense              AK55       w                                       01:24:37.11     00:00:00.00     00:00:00.00     01:24:37.11    
+22.   208      Lisa Langerbein           AK25       w     Tri-As Hamm                       01:24:59.59     00:00:00.00     00:00:00.00     01:24:59.59    
+23.   217      Heike Eckhoff             AK55       w     TV Lemgo                          01:25:15.51     00:14:01.15     00:00:00.00     01:11:14.36    
+24.   235      Sonja Bessel              AK40       w     SGE  Exter                        01:25:47.34     00:15:19.47     00:00:00.00     01:10:27.87    
+25.   201      Julia Fritzemeier         AK30       w     Sportfreunde Berlebeck-Heiligenki 01:26:12.29     00:14:22.10     00:00:00.00     01:11:50.18    
+26.   246      Michaela Könemann         AK35       w                                       01:26:19.59     00:54:00.08     00:00:00.00     00:32:19.50    
+27.   233      Michaela Turow-Gaszczak   AK55       w     SCW Liemke                        01:26:27.05     00:00:00.00     00:00:00.00     01:26:27.05    
+28.   241      Anka Borchert             AK30       w     Team Zoot Europe                  01:27:48.69     00:17:20.09     00:00:00.00     01:10:28.60    
+29.   225      Martina Mollenhauer       AK55       w     EAT, Tri-4-Fun                    01:28:09.31     00:00:00.00     00:00:00.00     01:28:09.31    
+30.   214      Katja Jochim              AK50       w     TV Lemgo                          01:28:48.33     00:00:00.00     00:00:00.00     01:28:48.33    
+31.   213      Finja Krause              Junioren   w     mw1 Tri Team TG Lage              01:29:55.85     00:00:00.00     00:00:00.00     01:29:55.85    
+32.   227      Sandra Wedeking           AK35       w                                       01:30:24.65     00:00:00.00     00:00:00.00     01:30:24.65    
+33.   237      Melanie Dahlmeier         AK35       w                                       01:32:02.20     00:00:00.00     00:00:00.00     01:32:02.20    
+34.   209      Karin Friedreich          AK45       w     TSV Niederelsungen                01:32:55.26     01:02:32.39     00:00:00.00     00:30:22.87    
+35.   239      Maike Baruth              AK35       w                                       01:34:36.06     00:00:00.00     00:00:00.00     01:34:36.06    
+36.   207      Melanie Gassen            AK50       w                                       01:37:17.39     00:17:30.77     00:00:00.00     01:19:46.62    
+37.   200      Rosalie Corazza           AK50       w     Team Steinberg Coaching           01:38:01.92     00:00:00.00     00:00:00.00     01:38:01.92    

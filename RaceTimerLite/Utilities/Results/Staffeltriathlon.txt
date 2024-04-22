@@ -1,0 +1,10 @@
+Ergebnisliste Staffeltriatlon    0,5 - 20 - 5
+
+Platz StartNr. Name                      AK         m/w   Verein                            Gesamt          Swim            Bike            Run            
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+1.    244      Merle Tovote              Staffel    s     EKG/MWG Sport LK                  01:05:02.99     00:08:36.51     00:00:00.00     00:56:26.47    
+2.    222      Kai Wallrabenstein        Staffel    s     FC Concordia Osnabrück            01:05:55.42     00:00:00.00     00:00:00.00     01:05:55.42    
+3.    240      Jannis Burzeja            Staffel    s     TV Lemgo                          01:06:08.41     00:07:58.17     00:00:00.00     00:58:10.23    
+4.    236      Nele Bertram              Staffel    s     TV Lemgo                          01:13:19.63     00:00:00.00     00:00:00.00     01:13:19.63    
+5.    228      Sebastian Scholtissek     Staffel    s     DLRG Lemgo                        01:17:14.23     00:00:00.00     00:00:00.00     01:17:14.23    
+6.    247      Lars Friedreich           Staffel    s     TSV Niederelsungen                01:19:19.00     00:10:59.03     00:00:00.00     01:08:19.96    

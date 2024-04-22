@@ -1,0 +1,163 @@
+Ergebnisliste Volkstriathlon Gesamt    0,5 - 20 - 5
+
+Platz StartNr. Name                      AK         m/w   Verein                            Gesamt          Swim            Bike            Run            
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+1.    106      Clemens Coenen            AK45       m     TV Lemgo                          00:56:57.82     00:09:10.00     00:00:00.00     00:47:47.82    
+2.    195      Björn Ender               AK35       m     ESV Eintracht Hameln              00:58:43.97     00:09:09.18     00:30:26.06     00:19:08.72    
+3.    130      Leonhard Fenske           AK40       m     RSV Gütersloh                     01:01:05.35     00:00:00.00     00:00:00.00     01:01:05.35    
+4.    175      Thorben Rein              AK35       m     Tri-Sport-Team TV Verl            01:01:46.38     00:00:00.00     00:00:00.00     01:01:46.38    
+5.    172      Peter Pauls               AK40       m     Buena Vista Fitnessclub           01:01:48.36     00:00:00.00     00:00:00.00     01:01:48.36    
+6.    168      Peter Brandt              AK55       m     Tri Sport Team TV Verl            01:01:55.11     00:00:00.00     00:00:00.00     01:01:55.11    
+7.    194      Steffen Schmelzle         AK35       m     Tri-Team SSV Ettlingen            01:03:26.99     00:10:23.46     00:00:00.00     00:53:03.52    
+8.    101      Daniel Jürgens            AK40       m     TV Einigkeit Langenberg           01:03:52.05     00:00:00.00     00:00:00.00     01:03:52.05    
+9.    141      Sebastian Raatz           AK40       m                                       01:04:03.29     00:43:16.38     00:00:00.00     00:20:46.91    
+10.   150      Niklas Brinkmeyer         Jugend A   m     mw1 Tri Team TG Lage              01:04:06.52     00:00:00.00     00:00:00.00     01:04:06.52    
+11.   160      Marco Albert              AK25       m                                       01:04:18.12     00:42:51.34     00:00:00.00     00:21:26.77    
+12.   177      Florian Bons              AK40       m     Weserberglandrunners              01:04:53.66     00:00:00.00     00:00:00.00     01:04:53.66    
+13.   244      Merle Tovote              Jugend A   s     EKG/MWG Sport LK                  01:05:02.99     00:08:36.51     00:00:00.00     00:56:26.47    
+14.   142      Markus Winkelmann         AK35       m     BSG Sparkasse Paderborn-Detmold   01:05:12.67     00:00:00.00     00:00:00.00     01:05:12.67    
+15.   151      Benedikt Fißmer           Jugend A   m     mw1 Tri Team TG Lage              01:05:29.22     00:00:00.00     00:00:00.00     01:05:29.22    
+16.   104      Patrick Pollmeier         AK30       m                                       01:05:31.97     00:00:00.00     00:00:00.00     01:05:31.97    
+17.   182      Kai Beinke                AK45       m     TG Ennigloh                       01:05:33.46     00:00:00.00     00:00:00.00     01:05:33.46    
+18.   222      Kai Wallrabenstein        AK40       s     FC Concordia Osnabrück            01:05:55.42     00:00:00.00     00:00:00.00     01:05:55.42    
+19.   240      Jannis Burzeja            Jugend A   s     TV Lemgo                          01:06:08.41     00:07:58.17     00:00:00.00     00:58:10.23    
+20.   166      Jens Schönbohm            AK55       m     RC Endspurt Herford               01:07:08.06     00:00:00.00     00:00:00.00     01:07:08.06    
+21.   102      Udo Bergmeier             AK50       m     TV Einigkeit Langenberg           01:07:18.09     00:00:00.00     00:00:00.00     01:07:18.09    
+22.   145      Jörn Führing              AK50       m     TV lemgo                          01:07:23.32     00:00:00.00     00:00:00.00     01:07:23.32    
+23.   210      Katjana Quest-Altrogge    AK55       w     Krefelder Kanu Klub               01:07:37.00     00:00:00.00     00:00:00.00     01:07:37.00    
+24.   156      Florian Altrogge          AK35       m     Vamos Sport                       01:08:04.65     00:00:00.00     00:00:00.00     01:08:04.65    
+25.   185      Toni Thenhausen           AK30       m     1. Tri Club Paderborn             01:08:45.60     00:00:00.00     00:00:00.00     01:08:45.60
+26. Disqualifiziert        
+27.   152      Thilo Meier               Jugend A   m     mw1 Tri Team TG Lage              01:09:06.96     00:00:00.00     00:00:00.00     01:09:06.96    
+28.   174      Andreas Schuster          AK65       m     1. Tri Club Paderborn             01:09:15.58     00:00:00.00     00:00:00.00     01:09:15.58    
+29.   148      Ansgar Krawinkel          AK50       m     SSV Germania Wehrden eV           01:09:20.53     00:13:43.88     00:00:00.00     00:55:36.65    
+30.   229      Nina Grohmann             AK20       w     RC Endspurt Herford               01:09:37.04     00:00:00.00     00:00:00.00     01:09:37.04    
+31.   223      Jannika Jesse             AK20       w     TV Lemgo                          01:09:46.54     00:00:00.00     00:00:00.00     01:09:46.54    
+32.   186      Sven Goldstein            AK40       m                                       01:09:56.46     00:13:56.99     00:00:00.00     00:55:59.47    
+33.   155      Andreas Pusch             AK55       m     SSG Marienau                      01:10:15.14     00:13:28.16     00:00:00.00     00:56:46.98    
+34.   158      Jan Rademaker             AK50       m     1. Tri Club Paderborn             01:10:24.61     00:13:49.04     00:32:33.99     00:24:01.57    
+35.   146      Bernhard Langerbein       AK55       m     Tri-As Hamm                       01:10:29.77     00:11:49.66     00:00:00.00     00:58:40.11    
+36.   137      Jan Franzen               AK50       m                                       01:10:32.46     00:00:00.00     00:00:00.00     01:10:32.46    
+37.   118      Simon Strüßmann           AK40       m     Team 4920                         01:10:58.51     00:12:07.00     00:30:54.67     00:27:56.83    
+38.   216      Tessa Rölert              AK30       w     TG Lage                           01:11:10.81     00:00:00.00     00:00:00.00     01:11:10.81    
+39.   140      Martin Heitmann           AK35       m                                       01:11:12.91     00:00:00.00     00:00:00.00     01:11:12.91    
+40.   161      Yannic Marquardt          AK30       m                                       01:11:21.16     00:14:11.63     00:00:00.00     00:57:09.53    
+41.   123      Christoph Martin          AK50       m     Team 4920                         01:11:22.25     00:44:28.07     00:00:00.00     00:26:54.17    
+42.   179      Daniel Immer              AK40       m     TuS Lipperode                     01:11:34.27     00:48:19.74     00:00:00.00     00:23:14.53    
+43.   117      Ingo Porath               AK55       m     TuS Kachtenhausen                 01:11:40.08     00:00:00.00     00:00:00.00     01:11:40.08    
+44.   138      Markus Hellmann           AK45       m                                       01:11:42.21     00:11:38.16     00:00:00.00     01:00:04.05    
+45.   230      Beinke Bettina            AK50       w     TG Ennigloh                       01:11:59.70     00:00:00.00     00:00:00.00     01:11:59.70    
+46.   139      Björn Klusmann            AK45       m                                       01:12:14.15     00:00:00.00     00:00:00.00     01:12:14.15    
+47.   126      Guido Freitag             AK45       m     Post TSV Detmold                  01:12:31.01     00:48:18.89     00:00:00.00     00:24:12.11    
+48.   196      Peer Gebert               Junioren   m     SSV Springe                       01:12:37.22     00:45:13.95     00:00:00.00     00:27:23.26    
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Ergebnisse online unter lipperlandtriathlon.tglage.de
+49.   159      Abram Derksen             AK50       m     VCAS                              01:12:47.78     00:00:00.00     00:00:00.00     01:12:47.78    
+50.   170      Maik Kornalewski          AK50       m                                       01:13:05.39     00:00:00.00     00:00:00.00     01:13:05.39    
+51.   234      Katrin Scharley-Sorgenfrey AK30       w     TG Lage                           01:13:14.80     00:00:00.00     00:00:00.00     01:13:14.80    
+52.   242      Alexandra Dux             AK40       w     LG Oerlinghausen                  01:13:17.19     00:00:00.00     00:00:00.00     01:13:17.19    
+53.   236      Nele Bertram              Junioren   s     TV Lemgo                          01:13:19.63     00:00:00.00     00:00:00.00     01:13:19.63    
+54.   157      Marlon Hillmann           AK30       m     TV Lemgo                          01:13:33.13     00:00:00.00     00:00:00.00     01:13:33.13    
+55.   192      Mario Stolzenberg         AK45       m                                       01:14:17.96     00:51:24.91     00:00:00.00     00:22:53.04    
+56.   165      Fabian Fechner            AK35       m                                       01:14:21.45     00:00:00.00     00:00:00.00     01:14:21.45    
+57.   180      Jason Coulthard           AK50       m     LV Tri Star Oelde                 01:14:25.95     00:13:13.51     00:34:40.80     00:26:31.62    
+58.   122      Dirk Astroth              AK55       m     LG Oerlinghausen                  01:14:39.03     00:00:00.00     00:00:00.00     01:14:39.03    
+59.   176      Boris Plumeyer-Köhler     AK35       m     SC Borchen                        01:14:42.32     00:14:32.50     00:36:02.65     00:24:07.16    
+60.   224      Marie Gautier             AK20       w     TSV Niederelsungen                01:15:15.82     00:00:00.00     00:00:00.00     01:15:15.82    
+61.   226      Petra Brand               AK50       w     SC Borchen                        01:15:50.95     00:50:16.16     00:00:00.00     00:25:34.79    
+62.   187      Manfred Wittenbrock       AK55       m     Tri-Sport-Team TV Verl            01:15:56.73     00:50:31.64     00:00:00.00     00:25:25.09    
+63.   203      Anja Lippert              AK50       w                                       01:16:00.82     00:00:00.00     00:00:00.00     01:16:00.82    
+64.   135      Matthias Ripke            AK50       m     ITri                              01:16:01.86     00:00:00.00     00:00:00.00     01:16:01.86    
+65.   218      Bentje Hillmer            AK25       w                                       01:16:05.72     00:00:00.00     00:00:00.00     01:16:05.72    
+66.   205      Kim Nußbaum               AK40       w     Fräulein Triathlon                01:17:07.34     00:00:00.00     00:00:00.00     01:17:07.34    
+67.   113      Jörg Brune                AK50       m     eatmorebananas                    01:17:11.03     00:00:00.00     00:00:00.00     01:17:11.03    
+68.   107      Wolfgang Klein            AK60       m     Tri-Sport-Team TV Verl            01:17:12.97     00:13:03.91     00:00:00.00     01:04:09.06    
+69.   228      Sebastian Scholtissek     AK45       s     DLRG Lemgo                        01:17:14.23     00:00:00.00     00:00:00.00     01:17:14.23    
+70.   215      Sarah Pohlmann            AK35       w     TV Lemgo                          01:17:16.99     00:00:00.00     00:00:00.00     01:17:16.99    
+71.   167      Hubertus Kleine           AK55       m                                       01:17:17.34     00:00:00.00     00:00:00.00     01:17:17.34    
+72.   206      Iris Spangenberg          AK50       w     TSV Niederelsungen                01:17:19.38     00:00:00.00     00:00:00.00     01:17:19.38    
+73.   131      Boris Römer               AK45       m                                       01:17:40.29     00:00:00.00     00:00:00.00     01:17:40.29    
+74.   193      Christian Schnier         AK55       m     VFL Hiddesen                      01:17:47.26     00:50:45.34     00:00:00.00     00:27:01.91    
+75.   153      Janis Katz                AK35       m                                       01:17:49.89     00:14:20.92     00:00:00.00     01:03:28.96    
+76.   108      Olaf Ohm                  AK50       m     RC Endspurt Herford               01:17:53.68     00:00:00.00     00:00:00.00     01:17:53.68    
+77.   189      Tomasz Mryka              AK40       m     Team Zoot Europe                  01:18:10.07     00:13:52.12     00:36:57.19     00:27:20.75    
+78.   133      Eric van der Heijden      AK60       m     TSG Grünstadt                     01:18:11.32     00:12:29.21     00:36:40.01     00:29:02.09    
+79.   171      Ralph Homeister           AK65       m     SV Gladbeck 13                    01:18:59.38     00:00:00.00     00:00:00.00     01:18:59.38    
+80.   112      Sonja Dreiling            AK50       w                                       01:19:05.39     00:00:00.00     00:00:00.00     01:19:05.39    
+81.   105      Franz-Josef Temme         AK60       m     Erdinger Active Team              01:19:10.54     00:15:37.74     00:00:00.00     01:03:32.80    
+82.   247      Lars Friedreich           AK45       s     TSV Niederelsungen                01:19:19.00     00:10:59.03     00:00:00.00     01:08:19.96    
+83.   188      Ulrich Schumacher         AK60       m     Tri-Sport-Team TV Verl            01:19:33.83     00:00:00.00     00:00:00.00     01:19:33.83    
+84.   212      Marie Schwarz             AK20       w     TSV Niederelsungen                01:19:50.97     00:00:00.00     00:00:00.00     01:19:50.97    
+85.   115      Daniel Fritzemeier        AK30       m                                       01:20:04.36     00:00:00.00     00:00:00.00     01:20:04.36    
+86.   144      Dennis Bessel             AK45       m     SGE Exter                         01:20:56.59     00:00:00.00     00:00:00.00     01:20:56.59    
+87.   211      Joana Quooß               AK35       w                                       01:20:58.02     00:00:00.00     00:00:00.00     01:20:58.02    
+88.   178      Joachim Rubel             AK70       m     Erdinger Alkoholfrei              01:21:29.88     00:00:00.00     00:00:00.00     01:21:29.88    
+89.   221      Paula Pfefferkorn         AK50       w     SV Gladbeck 13                    01:21:31.88     00:52:52.45     00:00:00.00     00:28:39.43    
+90.   127      Darius Wanoth             AK35       m     Teuto Runner                      01:22:00.70     00:00:00.00     00:00:00.00     01:22:00.70    
+91.   232      Anna-Lena Kortenbusch     AK30       w                                       01:22:33.11     00:55:14.41     00:00:00.00     00:27:18.70    
+92.   181      Sebastian Austmann        AK35       m     TSVE                              01:22:55.19     00:00:00.00     00:00:00.00     01:22:55.19    
+93.   204      Anna-Louise Dohme         AK35       w                                       01:23:04.40     00:00:00.00     00:00:00.00     01:23:04.40    
+94.   169      Guido Schneider           AK55       m     ITC                               01:23:15.16     00:00:00.00     00:00:00.00     01:23:15.16    
+95.   197      André Schenke             AK45       m     TV Reelkirchen                    01:24:01.30     00:14:47.21     00:00:00.00     01:09:14.08    
+96.   231      Andrea Mense              AK55       w                                       01:24:37.11     00:00:00.00     00:00:00.00     01:24:37.11    
+97.   208      Lisa Langerbein           AK25       w     Tri-As Hamm                       01:24:59.59     00:00:00.00     00:00:00.00     01:24:59.59    
+98.   217      Heike Eckhoff             AK55       w     TV Lemgo                          01:25:15.51     00:14:01.15     00:00:00.00     01:11:14.36    
+99.   164      Frank Graf                AK60       m     LTC Berlin                        01:25:28.56     00:17:34.12     00:37:21.60     00:30:32.82    
+100.  120      Axel Krämer               AK55       m                                       01:25:43.28     00:15:19.97     00:39:24.14     00:30:59.15    
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Ergebnisse online unter lipperlandtriathlon.tglage.de
+101.  235      Sonja Bessel              AK40       w     SGE  Exter                        01:25:47.34     00:15:19.47     00:00:00.00     01:10:27.87    
+102.  201      Julia Fritzemeier         AK30       w     Sportfreunde Berlebeck-Heiligenkirchen 01:26:12.29     00:14:22.10     00:00:00.00     01:11:50.18    
+103.  246      Michaela Könemann         AK35       w                                       01:26:19.59     00:54:00.08     00:00:00.00     00:32:19.50    
+104.  233      Michaela Turow-Gaszczak   AK55       w     SCW Liemke                        01:26:27.05     00:00:00.00     00:00:00.00     01:26:27.05    
+105.  119      Kay Lockstedt             AK45       m                                       01:27:25.37     00:19:06.32     00:00:00.00     01:08:19.05    
+106.  114      Kröger Matthias           AK45       m     Tri&Beer                          01:27:29.04     00:57:06.57     00:00:00.00     00:30:22.46    
+107.  241      Anka Borchert             AK30       w     Team Zoot Europe                  01:27:48.69     00:17:20.09     00:00:00.00     01:10:28.60    
+108.  225      Martina Mollenhauer       AK55       w     EAT, Tri-4-Fun                    01:28:09.31     00:00:00.00     00:00:00.00     01:28:09.31    
+109.  214      Katja Jochim              AK50       w     TV Lemgo                          01:28:48.33     00:00:00.00     00:00:00.00     01:28:48.33    
+110.  191      Timothy Lambert           AK35       m                                       01:28:51.31     00:00:00.00     00:00:00.00     01:28:51.31    
+111.  190      Rüdiger Ziervogel         AK60       m     Tri Schlumpf Team                 01:29:25.46     00:00:00.00     00:00:00.00     01:29:25.46    
+112.  213      Finja Krause              Junioren   w     mw1 Tri Team TG Lage              01:29:55.85     00:00:00.00     00:00:00.00     01:29:55.85    
+113.  227      Sandra Wedeking           AK35       w                                       01:30:24.65     00:00:00.00     00:00:00.00     01:30:24.65    
+114.  124      Jürgen Pleuler            AK65       m     LG Oerlinghausen                  01:31:58.35     00:00:00.00     00:00:00.00     01:31:58.35    
+115.  237      Melanie Dahlmeier         AK35       w                                       01:32:02.20     00:00:00.00     00:00:00.00     01:32:02.20    
+116.  209      Karin Friedreich          AK45       w     TSV Niederelsungen                01:32:55.26     01:02:32.39     00:00:00.00     00:30:22.87    
+117.  239      Maike Baruth              AK35       w                                       01:34:36.06     00:00:00.00     00:00:00.00     01:34:36.06    
+118.  207      Melanie Gassen            AK50       w                                       01:37:17.39     00:17:30.77     00:00:00.00     01:19:46.62    
+119.  200      Rosalie Corazza           AK50       w     Team Steinberg Coaching           01:38:01.92     00:00:00.00     00:00:00.00     01:38:01.92    
+120.  132      Jan Philip Heinrich       AK35       m                                       01:57:35.81     00:00:00.00     00:00:00.00     01:57:35.81
+DSQ   128      Ulrich Nikulla            AK65       m     TSVE 1890 Bielefeld               01:08:48.39     00:00:00.00     00:00:00.00     01:08:48.39    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Ergebnisse online unter lipperlandtriathlon.tglage.de
