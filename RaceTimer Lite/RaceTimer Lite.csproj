@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <RootNamespace>RaceTimer_Lite</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="RFIDReaderAPI">
+      <HintPath>..\..\Test\Test\bin\Debug\RFIDReaderAPI.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
