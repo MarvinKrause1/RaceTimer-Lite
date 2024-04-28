@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 using RaceTimer_Lite;
@@ -55,6 +56,108 @@ namespace RaceTimer_Lite
             streamWriter.Close();
 
         }*/
+
+        public Starter[] SetPositionsFiltered(Starter[] StarterArray)
+        {
+            Starter[] sortedStartersOverall = (from Starter in StarterArray
+                                        orderby Starter.EndTime
+                                        select Starter).ToArray();
+            int posWomen = 0;
+            int posMen = 0;
+            for(int i = 0; i < sortedStartersOverall.Length; i++)
+            {
+                if(sortedStartersOverall[i].Gender == "m")
+                {
+                    posMen++;
+                    sortedStartersOverall[i].PositionOverall = posMen;
+                }
+                else
+                {
+                    posWomen++;
+                    sortedStartersOverall[i].PositionOverall = posWomen;
+                }
+            }
+            Starter[] sortedStartersAgeGroup = (from Starter in StarterArray
+                                        orderby Starter.AgeGroup, Starter.EndTime
+                                        select Starter).ToArray();
+
+            string lastAgeGroup = "";
+            for(int i = 0; i < sortedStartersAgeGroup.Length; i++)
+            {
+                if(sortedStartersAgeGroup[i].AgeGroup == lastAgeGroup)
+                {
+                    if (sortedStartersOverall[i].Gender == "m")
+                    {
+                        posMen++;
+                        sortedStartersOverall[i].PositionAgeGroup = posMen;
+                    }
+                    else
+                    {
+                        posWomen++;
+                        sortedStartersOverall[i].PositionAgeGroup = posWomen;
+                    }
+                }
+                else
+                {
+                    if (sortedStartersOverall[i].Gender == "m")
+                    {
+                        posMen = 1;
+                        sortedStartersOverall[i].PositionAgeGroup = posMen;
+                    }
+                    else
+                    {
+                        posWomen = 1;
+                        sortedStartersOverall[i].PositionAgeGroup = posWomen;
+                    }
+                    lastAgeGroup = sortedStartersAgeGroup[i].AgeGroup;
+                }
+            }
+            
+            return (from Starter in sortedStartersAgeGroup
+                   orderby Starter.EndTime
+                   select Starter).ToArray();
+        }
+
+        public void DataOutput(Starter[] StarterArray, string DataPath, int firstNr, int lastNr)
+        {
+            Starter[] starterArray = StarterArray;
+            Starter[] filteredStarters = (from Starter in starterArray
+                                          where Starter != null && Starter.StartNr >= firstNr && Starter.StartNr <= lastNr
+                                          select Starter).ToArray();
+            Starter[] sortedStarters = SetPositionsFiltered(filteredStarters);
+
+            StreamWriter writer = new StreamWriter(DataPath, false, System.Text.Encoding.UTF8);
+
+            writer.WriteLine("Platz/Ges;Platz/AK;Strecke;AK;ZeitNetto;Zbez;Tdat;Vorname;Nachname;Verein;Zeit;ZZeitS;ZZeitR;ZZeitL");
+
+            foreach (Starter starter in sortedStarters)
+            {
+                writer.WriteLine(starter);
+            }
+            writer.Close();
+        }
+
+        public void DataOutputGender(Starter[] StarterArray, string DataPath, int firstNr, int lastNr, string gender)
+        {
+            if (StarterArray.Length == 0)
+                return;
+
+            Starter[] starterArray = StarterArray;
+            Starter[] filteredStarters = (from Starter in starterArray
+                                        where Starter != null && Starter.StartNr >= firstNr && Starter.StartNr <= lastNr && Starter.Gender == gender
+                                        select Starter).ToArray();
+            Starter[] sortedStarters = SetPositionsFiltered(filteredStarters);
+
+            StreamWriter writer = new StreamWriter(DataPath, false, System.Text.Encoding.UTF8);
+
+            writer.WriteLine("Platz/Ges;Platz/AK;Strecke;AK;ZeitNetto;Zbez;Tdat;Vorname;Nachname;Verein;Zeit;ZZeitS;ZZeitR;ZZeitL");
+            
+            foreach(Starter starter in sortedStarters)
+            {
+                writer.WriteLine(starter);
+            }
+            writer.Close();
+        }
 
         public Starter[] DataInput(string DataPath)
         {
@@ -141,8 +244,7 @@ namespace RaceTimer_Lite
                     if(iAge > 13 && iAge <= 15) { returnAge = "Jugend B"; }
                     if(iAge > 15 && iAge <= 17) { returnAge = "Jugend A"; }
                     if(iAge > 17 && iAge <= 19) { returnAge = "Junioren"; }
-                } 
-
+                }
                 if (iAge >= 20)
                 {
                     if (iAge < 25) { returnAge = "AK20"; }

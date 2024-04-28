@@ -10,7 +10,7 @@
 
   <ItemGroup>
     <Reference Include="RFIDReaderAPI">
-      <HintPath>..\..\Test\Test\bin\Debug\RFIDReaderAPI.dll</HintPath>
+      <HintPath>..\RFIDReaderAPI.dll</HintPath>
     </Reference>
   </ItemGroup>
 

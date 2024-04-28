@@ -27,6 +27,13 @@ namespace RaceTimer_Lite
         public string ?SecondStarter { get; set; }
         public string ?ThirdStarter { get; set;}
 
+        public int ?PositionOverall { get; set; }
+        public int ?PositionAgeGroup { get; set; }
 
+        // Platz/Ges;Platz/AK;Strecke;AK;ZeitNetto;Zbez;Tdat;Vorname;Nachname;Verein;Zeit;ZZeitS;ZZeitR;ZZeitL
+        public override string ToString()
+        {
+            return $"{PositionOverall};{PositionAgeGroup};;{AgeGroup};{EndTime};{null};{null};{FirstName} ;{LastName};{Club};{null};{SwimTime};{BikeTime};{RunTime}";
+        }
     }
 }

@@ -345,8 +345,9 @@ namespace RaceTimer_Lite
                     CurrentCategory = "Schüler C    0,1 - 2,5 - 0,4";
                     CurrentfirstNr = 1;
                     CurrentlastNr = 19;
-                    DataOutput();
+                    //DataOutput();
                     CurrentCategory = "Schüler C";
+                    myUtilites.DataOutput(StarterArray, DataPath[5], 1, 19);
                     break;
 
                 case 2:
@@ -354,8 +355,9 @@ namespace RaceTimer_Lite
                     CurrentCategory = "Schüler B    0,2 - 5 - 1";
                     CurrentfirstNr = 20;
                     CurrentlastNr = 49;
-                    DataOutput();
+                    //DataOutput();
                     CurrentCategory = "Scüler B";
+                    myUtilites.DataOutput(StarterArray, DataPath[6], 20, 49);
                     break;
 
                 case 3:
@@ -363,8 +365,9 @@ namespace RaceTimer_Lite
                     CurrentCategory = "Schüler A/Jugend B    0,4 - 10 - 2,5";
                     CurrentfirstNr = 50;
                     CurrentlastNr = 99;
-                    DataOutput();
-                    DataOutputSchuelerA();
+                    //DataOutput();
+                    //DataOutputSchuelerA();
+                    myUtilites.DataOutput(StarterArray, DataPath[7], 50, 99);
                     break;
 
                 case 4:
@@ -372,19 +375,20 @@ namespace RaceTimer_Lite
                     CurrentCategory = "Volkstriathlon Gesamt    0,5 - 20 - 5";
                     CurrentfirstNr = 100;
                     CurrentlastNr = 250;
-                    DataOutput();
+                    myUtilites.DataOutput(StarterArray, DataPath[8], 100, 200);
                     CurrentDataPath = DataPath[9];
                     CurrentCategory = "Volkstriathlon Männer    0,5 - 20 - 5";
                     CurrentGender = "m";
-                    DataOutputGender();
+                    myUtilites.DataOutputGender(StarterArray, DataPath[9], 100, 200, "m");
                     CurrentDataPath = DataPath[10];
                     CurrentCategory = "Volkstriathlon Frauen    0,5 - 20 - 5";
                     CurrentGender = "w";
-                    DataOutputGender();
+                    myUtilites.DataOutputGender(StarterArray, DataPath[10], 100, 200, "w");
+                    /*
                     CurrentDataPath = DataPath[12];
                     CurrentCategory = "Volkstriathlon Altersklassen    0,5 - 20 - 5";
                     DataOutputAgeGroup();
-                    CurrentCategory = "Volkstriathlon";
+                    CurrentCategory = "Volkstriathlon";*/
 
                     break;
 
@@ -394,7 +398,7 @@ namespace RaceTimer_Lite
                     CurrentfirstNr = 200;
                     CurrentlastNr = 250;
                     CurrentGender = "s";
-                    DataOutputGender();
+                    myUtilites.DataOutputGender(StarterArray, DataPath[11], 200, 250, "s");
                     CurrentCategory = "Staffeltriathlon";
                     break;
 

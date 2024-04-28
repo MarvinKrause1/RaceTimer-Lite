@@ -6,7 +6,6 @@
         xmlns:local="clr-namespace:RaceTimer_Lite"
         mc:Ignorable="d"
         Title="RaceTimer Lite" Height="900" Width="1600"
-        Icon="C:\Users\marvi\Desktop\RaceTimer Lite\RaceTimer Lite\Images\Logos\LogoGreen.png"
         WindowStartupLocation="CenterScreen">
     <Grid>
         <Grid.ColumnDefinitions>
