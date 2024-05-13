@@ -64,50 +64,72 @@ namespace RaceTimer_Lite
                                         select Starter).ToArray();
             int posWomen = 0;
             int posMen = 0;
+            int posStaffel = 0;
             for(int i = 0; i < sortedStartersOverall.Length; i++)
             {
-                if(sortedStartersOverall[i].Gender == "m")
+                if (sortedStartersOverall[i] == null)
+                    continue;
+
+                if (sortedStartersOverall[i].Gender == "m")
                 {
                     posMen++;
                     sortedStartersOverall[i].PositionOverall = posMen;
                 }
-                else
+                else if(sortedStartersOverall[i].Gender == "w")
                 {
                     posWomen++;
                     sortedStartersOverall[i].PositionOverall = posWomen;
                 }
+                else if (sortedStartersOverall[i].Gender == "s")
+                {
+                    posStaffel++;
+                    sortedStartersOverall[i].PositionOverall = posStaffel;
+                }
             }
-            Starter[] sortedStartersAgeGroup = (from Starter in StarterArray
+            Starter[] sortedStartersAgeGroup = (from Starter in sortedStartersOverall
                                         orderby Starter.AgeGroup, Starter.EndTime
                                         select Starter).ToArray();
 
             string lastAgeGroup = "";
             for(int i = 0; i < sortedStartersAgeGroup.Length; i++)
             {
+                if (sortedStartersAgeGroup[i] == null)
+                    continue;
+
                 if(sortedStartersAgeGroup[i].AgeGroup == lastAgeGroup)
                 {
-                    if (sortedStartersOverall[i].Gender == "m")
+                    if (sortedStartersAgeGroup[i].Gender == "m")
                     {
                         posMen++;
-                        sortedStartersOverall[i].PositionAgeGroup = posMen;
+                        sortedStartersAgeGroup[i].PositionAgeGroup = posMen;
                     }
-                    else
+                    else if (sortedStartersAgeGroup[i].Gender == "w")
                     {
                         posWomen++;
-                        sortedStartersOverall[i].PositionAgeGroup = posWomen;
+                        sortedStartersAgeGroup[i].PositionAgeGroup = posWomen;
+                    }
+                    else if (sortedStartersAgeGroup[i].Gender == "s")
+                    {
+                        posStaffel++;
+                        sortedStartersAgeGroup[i].PositionAgeGroup = posStaffel;
                     }
                 }
                 else
                 {
-                    if (sortedStartersOverall[i].Gender == "m")
+                    if (sortedStartersAgeGroup[i].Gender == "m")
                     {
                         posMen = 1;
-                        sortedStartersOverall[i].PositionAgeGroup = posMen;
+                        sortedStartersAgeGroup[i].PositionAgeGroup = posMen;
                     }
-                    else
+                    else if (sortedStartersAgeGroup[i].Gender == "w")
                     {
                         posWomen = 1;
-                        sortedStartersOverall[i].PositionAgeGroup = posWomen;
+                        sortedStartersAgeGroup[i].PositionAgeGroup = posWomen;
+                    }
+                    else if (sortedStartersAgeGroup[i].Gender == "s")
+                    {
+                        posStaffel = 1;
+                        sortedStartersAgeGroup[i].PositionAgeGroup = posStaffel;
                     }
                     lastAgeGroup = sortedStartersAgeGroup[i].AgeGroup;
                 }
@@ -139,9 +161,6 @@ namespace RaceTimer_Lite
 
         public void DataOutputGender(Starter[] StarterArray, string DataPath, int firstNr, int lastNr, string gender)
         {
-            if (StarterArray.Length == 0)
-                return;
-
             Starter[] starterArray = StarterArray;
             Starter[] filteredStarters = (from Starter in starterArray
                                         where Starter != null && Starter.StartNr >= firstNr && Starter.StartNr <= lastNr && Starter.Gender == gender
@@ -183,7 +202,7 @@ namespace RaceTimer_Lite
                 CurrentStarter.AgeGroup = AgeToAgeGroup(Eintraege[3]);
                 CurrentStarter.Gender = Eintraege[4];
                 CurrentStarter.Club = Eintraege[5];
-                CurrentStarter.EndTime = TimeSpan.Zero;
+                CurrentStarter.EndTime = TimeSpan.FromSeconds((new Random()).Next()%6000);
                 CurrentStarter.EndTimeManual = TimeSpan.Zero;
                 CurrentStarter.SwimTime = TimeSpan.Zero;
                 CurrentStarter.BikeTime = TimeSpan.Zero;

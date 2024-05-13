@@ -273,14 +273,14 @@ namespace RaceTimer_Lite
             string DirectoryLists = System.IO.Path.Combine(DirectoryUtilities, "Lists");
             string StarterListFile = System.IO.Path.Combine(DirectoryLists, "StarterList.txt");
             string DirectoryResults = System.IO.Path.Combine(DirectoryUtilities, "Results");
-            string ResultsSchuelerC = System.IO.Path.Combine(DirectoryResults, "SchuelerC.txt");
-            string ResultsSchuelerB = System.IO.Path.Combine(DirectoryResults, "SchuelerB.txt");
-            string ResultsSchuelerA = System.IO.Path.Combine(DirectoryResults, "SchuelerA_JugendB.txt");
-            string ResultsVolkW = System.IO.Path.Combine(DirectoryResults, "VolkstriathlonW.txt");
-            string ResultsVolkM = System.IO.Path.Combine(DirectoryResults, "VolkstriathlonM.txt");
-            string ResultsVolk = System.IO.Path.Combine(DirectoryResults, "Volkstriathlon.txt");
-            string ResultsStaffel = System.IO.Path.Combine(DirectoryResults, "Staffeltriathlon.txt");
-            string ResultsAgeGroup = System.IO.Path.Combine(DirectoryResults, "Altersklassen.txt");
+            string ResultsSchuelerC = System.IO.Path.Combine(DirectoryResults, "SchuelerC.csv");
+            string ResultsSchuelerB = System.IO.Path.Combine(DirectoryResults, "SchuelerB.csv");
+            string ResultsSchuelerA = System.IO.Path.Combine(DirectoryResults, "SchuelerA_JugendB.csv");
+            string ResultsVolkW = System.IO.Path.Combine(DirectoryResults, "VolkstriathlonW.csv");
+            string ResultsVolkM = System.IO.Path.Combine(DirectoryResults, "VolkstriathlonM.csv");
+            string ResultsVolk = System.IO.Path.Combine(DirectoryResults, "Volkstriathlon.csv");
+            string ResultsStaffel = System.IO.Path.Combine(DirectoryResults, "Staffeltriathlon.csv");
+            string ResultsAgeGroup = System.IO.Path.Combine(DirectoryResults, "Altersklassen.csv");
 
             string[] EventMsgs = new string[5];
 
