@@ -33,7 +33,12 @@ namespace RaceTimer_Lite
         // Platz/Ges;Platz/AK;Strecke;AK;ZeitNetto;Zbez;Tdat;Vorname;Nachname;Verein;Zeit;ZZeitS;ZZeitR;ZZeitL
         public override string ToString()
         {
-            return $"{PositionOverall};{PositionAgeGroup};;{AgeGroup};{EndTime};{null};{null};{FirstName} ;{LastName};{Club};{null};{SwimTime};{BikeTime};{RunTime}";
+            string _AgeGroup = AgeGroup;
+            if(_AgeGroup.StartsWith("AK"))
+            {
+                _AgeGroup = _AgeGroup.Substring(2);
+            }
+            return $"{PositionOverall};{PositionAgeGroup};;{_AgeGroup};{EndTime};{null};{null};{FirstName} ;{LastName};{Club};{null};{SwimTime};{BikeTime};{RunTime}";
         }
     }
 }
