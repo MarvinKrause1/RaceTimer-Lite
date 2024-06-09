@@ -38,7 +38,7 @@ namespace RaceTimer_Lite
             {
                 _AgeGroup = _AgeGroup.Substring(2);
             }
-            return $"{PositionOverall};{PositionAgeGroup};;{_AgeGroup};{EndTime};{null};{null};{FirstName} ;{LastName};{Club};{null};;;";
+            return $"{PositionOverall};{PositionAgeGroup};;{_AgeGroup};{null};{null};{null};{FirstName} ;{LastName};{Club};{EndTime};;;";
         }
     }
 }
